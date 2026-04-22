@@ -1,0 +1,16 @@
+{
+    "configurations": [
+    {
+        "name": "(gdb) Launch",
+        "type": "cppdbg",
+        "request": "launch",
+        "program": "/home/fzuccaro/Desktop/CommonCoreProjects/Milestone5/CPP/CPPModule09/ex02/PmergeMe",
+        "args": ["2147483649"],
+        "stopAtEntry": false,
+        "cwd": "${fileDirname}",
+        "environment": [],
+        "externalConsole": false,
+        "MIMode": "gdb",
+    }
+    ]
+}

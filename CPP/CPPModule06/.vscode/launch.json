@@ -1,0 +1,16 @@
+{
+    "configurations": [
+    {
+        "name": "(gdb) Launch",
+        "type": "cppdbg",
+        "request": "launch",
+        "program": "/home/fzuccaro/Desktop/CommonCoreProjects/Milestone5/CPP/CPPModule06/ex00/ConversionOfScalarType",
+        "args": ["21474836.000"],
+        "stopAtEntry": false,
+        "cwd": "${fileDirname}",
+        "environment": [],
+        "externalConsole": false,
+        "MIMode": "gdb",
+    }
+    ]
+}
